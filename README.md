@@ -4,6 +4,9 @@ Improvisation like jazz song created by Deep LSTM Neural Network.
 
 [Demo Link (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-imprivisation)
 
+![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)
+
+
 ## Usage
 
   #### 1. Set up environment (conda recommended)
