@@ -1,6 +1,6 @@
 # Deep Improvisation
 
-Improvisation like jazz song created by Deep LSTM Neural Network.
+Deep Neural Network to generate improvisation like song.
 
 [Demo Link (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
@@ -35,7 +35,8 @@ Improvisation like jazz song created by Deep LSTM Neural Network.
 
 ## Note
 
- MIDI format is usually consist of multiple track and this repository is currently not supporting automatic detection which track is main part of the song. So you may have to choose track as index of the pattern in `parse_midi_to_text.py`.
+ - You can use other MIDI file to generate new song.
+ - MIDI format is usually consist of multiple track and this repository is currently not supporting automatic detection which track is main part of the song. So you may have to choose track as index of the pattern in `parse_midi_to_text.py`.
 
 
 ## License
