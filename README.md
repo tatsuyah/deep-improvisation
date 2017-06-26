@@ -1,4 +1,4 @@
-# deep improvisation
+# Deep Improvisation
 
 Improvisation like jazz song created by Deep LSTM Neural Network.
 
