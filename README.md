@@ -2,7 +2,7 @@
 
 Improvisation like jazz song created by Deep LSTM Neural Network.
 
-[Demo Link (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-imprivisation)
+[Demo Link (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
 ![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)
 
