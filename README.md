@@ -6,6 +6,11 @@ Deep Neural Network to generate improvisation like song.
 
 ![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)
 
+## Dependencies
+
+ - Keras
+ - TensorFlow
+ - Python MIDI
 
 ## Usage
 
