@@ -11,19 +11,19 @@
   #### 2. Parse MIDI file to text
 
   ```
-  python parse_midi_to_text.py
+  python ./src/parse_midi_to_text.py
   ```
 
   #### 3. Train the model (GPU recommended)
 
   ```
-  python training.py
+  python ./src/training.py
   ```
 
   #### 4. Generate music
 
   ```
-  python generate_music.py
+  python ./src/generate_music.py
   ```
 
 ## Note
