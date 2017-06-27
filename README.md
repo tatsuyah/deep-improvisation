@@ -1,6 +1,6 @@
 # Deep Improvisation
 
-Easy-to-use Deep Neural Network to generate song like containing improvisation.
+Easy-to-use Deep LSTM Neural Network to generate song like containing improvisation.
 
 [Demo (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
