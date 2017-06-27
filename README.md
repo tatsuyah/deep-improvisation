@@ -2,7 +2,7 @@
 
 Deep Neural Network to generate improvisation like song.
 
-[Demo Link (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
+[Demo (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
 ![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)
 
