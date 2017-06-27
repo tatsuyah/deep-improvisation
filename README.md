@@ -1,6 +1,6 @@
 # Deep Improvisation
 
-Deep Neural Network to generate improvisation like song.
+Easy-to-use Deep Neural Network to generate song like containing improvisation.
 
 [Demo (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
