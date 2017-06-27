@@ -40,7 +40,7 @@ Easy-to-use Deep Neural Network to generate song like containing improvisation.
 
 ## Note
 
- - You can use other MIDI file to generate new song.
+ - You can use other MIDI file to train the model to generate new song. Change the file `./midi/original/original_song.mid`.
  - MIDI format is usually consist of multiple track and this repository is currently not supporting automatic detection which track is main part of the song. So you may have to choose track as index of the pattern in `parse_midi_to_text.py`.
 
 
