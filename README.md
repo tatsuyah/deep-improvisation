@@ -4,7 +4,7 @@ Easy-to-use Deep LSTM Neural Network to generate song like containing improvisat
 
 [Demo (SoundCloud)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
-![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)
+[![screenshot](https://github.com/tatsuyah/deep-improvisation/blob/master/img/jazz.png)](https://soundcloud.com/tsyworks/sets/deep-improvisation)
 
 ## Dependencies
 
