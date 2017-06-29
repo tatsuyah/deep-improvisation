@@ -19,7 +19,7 @@ music_as_chunks = []
 for elm in f:
   music_as_chunks.append(elm.rstrip("\n"))
 f.close()
-resolution = int(music_as_chunks[0].split("_")[1])
+resolution = 1440
 music_as_chunks = music_as_chunks[1:]
 
 unique_chunks = sorted(list(set(music_as_chunks)))
