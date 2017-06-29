@@ -39,18 +39,20 @@ def sample(preds, temperature=1.0):
 
 sampled_chunks = random.sample(music_as_chunks, maxlen)
 generated =  []
-part_of_song = sampled_chunks
+part_of_song = music_as_chunks[0: maxlen]
 generated.extend(part_of_song)
 sys.stdout.write(str(generated))
 
-chunk_length = 2000
+chunk_length = 1000
 for i in range(chunk_length):
   x = np.zeros((1, maxlen, len(unique_chunks)))
   for t, chunk in enumerate(part_of_song):
     x[0, t, chunk_indices[chunk]] = 1.
 
   preds = model.predict(x, verbose=0)[0]
-  distribution = 0.2
+  distributions = [0.2,  0.6, 1.0, 1.4]
+  weight = [0.3, 0.5, 0.1, 0.1]
+  distribution = np.random.choice(distributions, p=weight)
   next_index = sample(preds, distribution)
   next_char = indices_chunk[next_index]
 
